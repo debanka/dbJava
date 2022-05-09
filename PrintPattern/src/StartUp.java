@@ -25,6 +25,7 @@ public class StartUp {
     }
     public static void main(String args[])
     {
+		// debanka 101
         StartUp su = new StartUp();
         su.printPat(3);
         System.out.println(sb);
